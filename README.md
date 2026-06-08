@@ -1,4 +1,4 @@
-# Claude Usage Tracker
+# Claude Usage Tracker or LimitLens
 
 A lightweight, real-time browser extension to monitor your Claude.ai session limits and context window usage.
 
